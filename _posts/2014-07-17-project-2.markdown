@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 2
+title: YouTube channel
 date: 2014-07-17
-img: cake.png
+img: youtube.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Hobby
+category: Video Editing
+description: During the 2020 quarantine, I decided to start a <a href="https://YouTube.com/MultsElMesco" target="_blank">YouTube channel</a> as a way to document my programming/robotics projects and practice another one of my favorite hobbies, video editing. <br> Originally, I focused solely on documenting my side projects but later I started making short videos showcasing common programmers frustrations in a fun way. <br> As of right now, my channel has gained a decent amount of subscribers and it's steadily gaining traction every day.
 ---

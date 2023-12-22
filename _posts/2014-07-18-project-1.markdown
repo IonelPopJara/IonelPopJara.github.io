@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+title: Procedural generation
+date: 2023-07-22
+img: spotify-balls.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2023
+client: Hobby
+category: Procedural Programming
+description: I wanted to challenge myself and make a procedurally generated game using my Spotify data. To achieve this, I used a Node.js server to gather some of my user data with the use of the Spotify API and the Unity game engine to render the graphics and define the gameplay. Initially, my goal was to simulate a basic eco-system with diverse creatures but the more I worked on it, the more "gaming-like" features I ended up producing. <br> The idea is simple, each of one my most played songs becomes a creature. The color and shape of the songs is determined by its track data provided by the spotify API. These attributes also have an influence in their personality and basic behavior. <br><br> For this project I spent a bunch of time researching about procedurally generated meshes and how to properly use the data to produce something fun and enjoyable so if you want to find out more about this project you can <a href="https://youtu.be/wvQCIMjlxHw?si=QMn7MBaH7qPODxUP" target="_blank">check my video</a>.
 ---
